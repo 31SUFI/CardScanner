@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264969234791",
+    "project_id": "card-scanner-d8d50",
+    "storage_bucket": "card-scanner-d8d50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264969234791:android:baa79771d4875495e267c2",
+        "android_client_info": {
+          "package_name": "com.example.card_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgP1CQUqCnPblCVv7BtsdEbpyC-ojbhmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
