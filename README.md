@@ -1,4 +1,4 @@
-# Pakistani ID Card Scanner App 🆔
+# ID Card Scanner App 🆔
 
 A Flutter-based mobile application that uses Machine Learning Kit for optical character recognition (OCR) to scan and extract information from Pakistani National Identity Cards (CNIC). The app stores the extracted data in Firebase Realtime Database for easy access and management.
 
