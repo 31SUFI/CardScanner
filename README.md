@@ -1,7 +1,9 @@
-# ID Card Scanner App 🆔
+# SmartScan ML 🆔
 
 A Flutter-based mobile application that uses Machine Learning Kit for optical character recognition (OCR) to scan and extract information from Pakistani National Identity Cards (CNIC). The app stores the extracted data in Firebase Realtime Database for easy access and management.
 
+## App Demo 🎥
+Watch the Demo Video on [Google Drive](https://drive.google.com/file/d/1MdgEl6CFLd7B6h_FZYgCI4z8H1dEFyPf/view?usp=drivesdk)
 ## Features ✨
 
 1. **Smart Card Detection**
