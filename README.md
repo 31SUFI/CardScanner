@@ -9,7 +9,6 @@ Watch the Demo Video on [Google Drive](https://drive.google.com/file/d/1MdgEl6CF
 1. **Smart Card Detection**
    - Real-time camera feed for instant card capture
    - Automatic text recognition using Google ML Kit
-   - Support for both front and back sides of CNIC
 
 2. **Data Extraction**
    - Extracts key information including:
